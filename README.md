@@ -1,5 +1,5 @@
 # File Management System Application for Encryption
-## How to run
+## How to run (for Windows)
 - Download the folder: [here](https://drive.google.com/drive/folders/1Acya-9g4gRrcfIn2cdsAxTy1S_igSvA2?usp=sharing)
 - Double click on `FileManagementSystem.exe`
 ## How it builds 🔨
